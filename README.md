@@ -1,6 +1,6 @@
 👋 Hi, I’m @vinc-lett, I am a teacher in Testing, Scrum, PM and other topics. 
 - 👀 I’m interested in everything about: Testing best practices, Agile Methodologies, Scrum, CMMI, methodologies in general.
-- 🌱 I’m currently learning: everyday something new! 
+- 🌱 I’m currently learning something new everyday, by just practicing, browsing and studying! 
 - 💞️ I’m looking to collaborate on my favorite topics listed above.
 - 📫 How to reach me: here.
 
